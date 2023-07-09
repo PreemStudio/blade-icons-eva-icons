@@ -17,7 +17,7 @@
             "role": "Developer"
         }
     ],
-    "homepage": "https://github.com/BombenProdukt/blade-icons-eva-icons",
+    "homepage": "https://github.com/faustbrian/blade-icons-eva-icons",
     "require": {
         "php": "^8.2",
         "illuminate/contracts": "^10.0",
