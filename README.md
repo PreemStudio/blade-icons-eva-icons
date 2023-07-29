@@ -1,10 +1,3 @@
-<p align="center">
-    <a href="https://bombenprodukt.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/faustbrian/assets/main/logo-text.svg" width="128" alt="BombenProdukt Logo" />
-    </a>
-</p>
-
-
 ## About Eva Icons
 
 This project was created by, and is maintained by [Brian Faust](https://github.com/faustbrian), and is a package to easily make use of [Eva Icons](https://akveo.github.io/eva-icons/#/) with Laravel Blade Icons. Be sure to browse through the [changelog](CHANGELOG.md), [code of conduct](.github/CODE_OF_CONDUCT.md), [contribution guidelines](.github/CONTRIBUTING.md), [license](LICENSE), and [security policy](.github/SECURITY.md).
